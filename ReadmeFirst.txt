@@ -1,4 +1,8 @@
-This is what the remote looks like
+Please check out the wiki page
 
-https://cloud.githubusercontent.com/assets/7473550/5694668/04f6372c-99c7-11e4-9f83-a706a06c5280.jpg
+wiki button is on right hand side
+
+OR
+
+https://github.com/tobyrobb/SMS_Watts_Clever_Transmitter/wiki
 
